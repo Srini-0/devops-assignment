@@ -90,9 +90,9 @@ chmod +x restart_nginx.sh
 No major issues were encountered during this assignment. The setup went smoothly from instance launch through to website deployment.
  
 ## Learnings
-- Basic Nginx service management using `systemctl` (status, restart).
-- This was my first hands-on exposure to Nginx specifically, and I plan to explore it further (reverse proxy configuration, load balancing) beyond the scope of this assignment.
-
+- Already familiar with Linux basics and AWS EC2 from prior projects, this assignment added hands-on experience with Nginx installing it, checking its status, and restarting it using systemctl.
+- Basic shell scripting to automate a repetitive task writing and running restart_nginx.sh to restart Nginx with a single command.
+- 
 ## Total Time Taken
 ~30 minutes
  
